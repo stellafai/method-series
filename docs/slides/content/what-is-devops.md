@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
+<!-- .slide: data-background-image="images/title-slide-background.png" -->
 ## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
 ### What is DevOps? <!-- {.element: class="title-color"} -->
 TL500 <!-- {.element: class="title-color"} -->

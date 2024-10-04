@@ -1,7 +1,6 @@
-<!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
-### DevOps Culture and Practice <!-- {.element: class="course-title"} -->
+<!-- .slide: data-background-image="images/title-slide-background.png" -->
+### Stellafai Methods <!-- {.element: class="course-title"} -->
 ## Non-Functional Requirements Map <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
 
 
 
