@@ -140,7 +140,7 @@ _"Can you give me an example of not being open?" can lead to actionable items li
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 * [Team Identity](https://openpracticelibrary.com/practice/team-identity/)
 * [Social Contract](https://openpracticelibrary.com/practice/social-contract/)

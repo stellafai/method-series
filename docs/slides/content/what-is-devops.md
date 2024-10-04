@@ -142,7 +142,7 @@ _The DevOps Handbook_ <!-- {.element: class="small" style="text-align: right;"} 
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 - [Continuous Integration](https://openpracticelibrary.com/practice/continuous-integration/)
 - [Continuous Delivery](https://openpracticelibrary.com/practice/continuous-delivery/)

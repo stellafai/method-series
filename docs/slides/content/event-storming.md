@@ -227,7 +227,7 @@ The Event Storming Key is specific set of colored sticky notes.
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 _An Event Storm focuses on the function design of the system. However when building a backlog we should take into account other aspects of system design such as:_  <!--{.element: style="font-size: smaller; font-weight: 400;"} -->
 

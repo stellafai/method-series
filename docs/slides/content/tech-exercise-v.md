@@ -1,8 +1,7 @@
 <!-- .slide: data-background-image="images/title-slide-background.png" -->
-### DevOps Culture and Practice <!-- .element: class="course-title" -->
+### Stellafai Methods <!-- .element: class="course-title" -->
 ### Tech Exercise V - The Deployments Strike Back  <!-- .element: class="title-color" -->
 ### Advanced Deployments & Scalability <!-- .element: class="title-color" -->
-TL500 <!-- .element: class="title-color" -->
 
 
 
@@ -124,7 +123,7 @@ As a learner, I can perform the following tasks by the end of this exercise:
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 - [Lean UX](https://openpracticelibrary.com/)
 - [Split Testing](https://openpracticelibrary.com/)

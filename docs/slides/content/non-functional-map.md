@@ -122,7 +122,7 @@ As you review items on the map, define if any sticky notes could be:
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 - [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/)
 - [Kanban](https://openpracticelibrary.com/practice/kanban)

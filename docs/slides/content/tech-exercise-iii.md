@@ -1,8 +1,7 @@
 <!-- .slide: data-background-image="images/title-slide-background.png" -->
-### DevOps Culture and Practice <!-- .element: class="course-title" -->
+### Stellafai Methods <!-- .element: class="course-title" -->
 ## Tech Exercise III <!-- .element: class="title-color" -->
 ### Automate All the Testing <!-- .element: class="title-color" -->
-TL500 <!-- .element: class="title-color" -->
 
 
 
@@ -140,7 +139,7 @@ I assume the tasks will be obvious or assigned (although this is vague), but the
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 - [Test automation](https://openpracticelibrary.com/practice/test-automation/)
 - [Impact & Effort Prioritization (Matrix)](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/)

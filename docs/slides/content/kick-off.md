@@ -163,7 +163,7 @@ Introduce yourself to the group and share your animal.
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 <div class="container">
 <div class="col" data-markdown>

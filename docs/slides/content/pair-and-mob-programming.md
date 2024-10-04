@@ -147,7 +147,7 @@ works on the same thing concurrently, and at the same computer.
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 - [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/)
 - [Mob Programming](https://openpracticelibrary.com/practice/mob-programming/)

@@ -1,8 +1,7 @@
 <!-- .slide: data-background-image="images/title-slide-background.png" -->
-### DevOps Culture and Practice <!-- .element: class="course-title" -->
+### Stellafai Methods <!-- .element: class="course-title" -->
 ### Tech Exercise I  - The Manual Menace <!-- .element: class="title-color" -->
 ### Everything as Code <!-- .element: class="title-color" -->
-TL500 <!-- .element: class="title-color" -->
 
 
 
@@ -140,7 +139,7 @@ _We will set up Git projects, create dev, test, and stage projects in OpenShift,
 
 
 
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/related-practices-stellafai.png", class="black-style"  data-background-opacity="0.3" -->
 ### Related & Used Practices
 - [The Big Picture](https://openpracticelibrary.com/practice/teh-big-picture)
 - [Pair Programming](https://openpracticelibrary.com/practice/pair-programming)
