@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/"  -->
-## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
+## Stellafai Methods <!-- {.element: class="course-title"} -->
 ### Wrap-Up <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+
 
 
 

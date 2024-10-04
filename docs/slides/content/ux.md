@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/title-slide-background.png"  -->
-## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
+## Stellafai Methods <!-- {.element: class="course-title"} -->
 ### UX <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+
 
 
 
